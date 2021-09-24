@@ -21,7 +21,7 @@
     * FOOD, COCKTAILS and TRAVELS.
 
 - 📫 How to reach me: ...
-   *  	[my email] elodiegage@gmail.com   	
+   *    [my email](elodiegage@gmail.com/ "reach me")
    * 	[my portfolio](https://elodieg.promo-66.codeur.online/portfolio_icoe/ "Check my portfolio here")
 
 - ⚡ Fun fact: ...
