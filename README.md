@@ -21,8 +21,8 @@
     * FOOD, COCKTAILS and TRAVELS.
 
 - 📫 How to reach me: ...
-   *  	 elodiegage@gmail.com   	
-   * 	 https://elodieg.promo-66.codeur.online/portfolio_icoe/  
+   *  	[my email] elodiegage@gmail.com   	
+   * 	[my portfolio](https://elodieg.promo-66.codeur.online/portfolio_icoe/ "Check my portfolio here")
 
 - ⚡ Fun fact: ...
    * I have more tattoos than my age and most of them are made by myself
