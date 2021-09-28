@@ -2,7 +2,7 @@
 
 <!-- banner -->
 [![Happyvolt92's GitHub Banner](./assets/ship.jpg)](https://elodieg.promo-66.codeur.online/portfolio_icoe/)
-
+-------------------------------------------------------------------------------------------------
 ###    ABOUT ME 
 
 
@@ -25,7 +25,7 @@
 -------------------------------------------------------------------
 ( IN PROGRESS)
 
-- 📩 Latest Blog Posts // You can name it whatever you want. 
+- 📩 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -39,7 +39,7 @@
 
 - ⚡ Fun fact: ...
 
-   * I have more tattoos than my age and most of them are made by myself
+   * I have more tattoos than my age and most of them are made by myself.
    * I came in France when I was 9, I'm half-brazilian  ( It's explain the food's love). 
    * I LOVE  1660's PIRATE HISTORY.
 
