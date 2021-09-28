@@ -20,8 +20,17 @@
 - 💬 Ask me about ...
     * FOOD, COCKTAILS and TRAVELS.
 
+ 	(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white/visits/)
+
+-# 📩 Latest Blog Posts // You can name it whatever you want.
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
 - 📫 How to reach me: ...
-   *    [my email](elodiegage@gmail.com/ "reach me")
+   *    [mailto](mailto:elodiegage@gmail.com/ "reach me")
    * 	[my portfolio](https://elodieg.promo-66.codeur.online/portfolio_icoe/ "Check my portfolio here")
 
 - ⚡ Fun fact: ...
