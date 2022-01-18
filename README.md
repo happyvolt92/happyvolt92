@@ -43,4 +43,4 @@
    * I came in France when I was 9, I'm half-brazilian  ( It's explain the food's love). 
    * I LOVE  1660's PIRATE HISTORY.
 
-<img src="https://media.giphy.com/media/3oz8xJYOcJFeeJaEj6/giphy.gif?cid=790b761154921544a3769f00b049a894c76053da225ebbef&rid=giphy.gif&ct=g)" width="150" height="150" /> 
+<img src="https://media.giphy.com/media/3oz8xJYOcJFeeJaEj6/giphy.gif?cid=790b761154921544a3769f00b049a894c76053da225ebbef&rid=giphy.gif&ct=g)" width="150" height="150" position"center" /> 
