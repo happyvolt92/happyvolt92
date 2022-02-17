@@ -8,15 +8,20 @@
 
 - 🔭 I’m currently working on ...
     * RPG PORTFOLIO GAME in html5,css3, javascript and one in python3.
+    * IOS APP
+    * ANDROID APP
     
 - 🌱 I’m currently learning ...
-    * JavaScript11, html5, Css3, PHP7.4, Pentesting, To become a better green dev! 	, Python3.
+    * JavaScript, html5, Css3, PHP8, Pentesting, To become a better green dev, Python3.
+    * SWIFT
+    * JAVA
+    * REACT NATIVE
 
 - 👯 I’m looking to collaborate on ...
-    * Indie Games U+1F9B8 , Improve static website.
+    * Indie Games, Improve static website.
 
 - 🤔 I’m looking for help with ...
-    * Python3, Collisions system on Javascript11.
+    * SWIFT, JAVA, REACT NATIVE
 
 - 💬 Ask me about ...
     * FOOD, COCKTAILS and TRAVELS.
