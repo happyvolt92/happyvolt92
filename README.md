@@ -28,8 +28,9 @@
 
 --------------------------------------------------------------------
 - 📫 How to reach me: ...
+
    *    [mailto](mailto:elodiegage@gmail.com/ "reach me")
-   * 	[my portfolio](https://elodieg.promo-66.codeur.online/portfolio_icoe/ "Check my portfolio here")
+
 
 
 - ⚡ Fun fact: ...
