@@ -12,7 +12,7 @@
 
     
 - 🌱 I’m currently learning ...
-    * JavaScript, html5, Css3, PHP8, Pentesting, To become a better green dev, Python3.
+    *  Pentesting, To become a better green dev.
     * SWIFT
     * REACT NATIVE
 
