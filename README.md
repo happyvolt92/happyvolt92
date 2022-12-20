@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on ...
-    * RPG PORTFOLIO GAME in html5,css3, javascript and one in python3.
+    * Diablo Immortal app, for my clan and friends only
     * IOS APP
 
     
