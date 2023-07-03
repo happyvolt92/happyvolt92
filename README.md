@@ -7,20 +7,22 @@
 
 
 - 🔭 I’m currently working on ...
-    * Diablo Immortal app, for my clan and friends only
-    * IOS APP
+    * Diablo Immortal app
+    * MacOS Software
+    * iOS APP
 
     
 - 🌱 I’m currently learning ...
     *  Pentesting, To become a better green dev.
     * SWIFT
-    * REACT NATIVE
-
+  
 - 👯 I’m looking to collaborate on ...
     * Indie Games, Mobile APP
 
 - 🤔 I’m looking for help with ...
-    * SWIFT, REACT NATIVE
+    * SWIFT
+    * SWIFTUI
+    * SWIFT SERVER_SIDE
 
 - 💬 Ask me about ...
     * FOOD, COCKTAILS and TRAVELS.
