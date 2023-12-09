@@ -7,7 +7,6 @@
 
 
 - 🔭 I’m currently working on ...
-    * Diablo Immortal app
     * MacOS Software
     * iOS APP
 
